@@ -1,7 +1,6 @@
 # Workforce Equality Analysis
 
 _A data-driven evaluation of fairness across factories and job roles using the Equality Score metric._  
-(Based on the uploaded report.) 
 
 ---
 ## Overview
