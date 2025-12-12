@@ -4,7 +4,6 @@ _A data-driven evaluation of fairness across factories and job roles using the E
 (Based on the uploaded report.) 
 
 ---
-
 ## Overview
 This project evaluates workforce fairness using an **Equality Score** (range: -100 to +100) and classifies roles into:
 - **Fair** (±10)  
